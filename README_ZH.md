@@ -46,7 +46,7 @@
 
 ## 问题提出
 
-[提出issue](https://github.com/taielab/Taie-RedTeam-OS/issues)
+[提出issue](https://github.com/taie-lab/Taie-RedTeam-OS/issues)
 
 ## 捐助
 

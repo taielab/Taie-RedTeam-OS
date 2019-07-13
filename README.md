@@ -46,7 +46,7 @@ README [English](./README.md)|[中文](./README_ZH.md)
 
 ## ISSUSE
 
-[pulll issue](https://github.com/taielab/Taie-RedTeam-OS/issues)
+[pulll issue](https://github.com/taie-lab/Taie-RedTeam-OS/issues)
 
 ## Donate
 
