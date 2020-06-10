@@ -4,8 +4,6 @@
 
 ![](https://img.shields.io/badge/build-passing-brightgreen)![](https://img.shields.io/badge/release-v2020.1-brightgreen)![Gitter](https://img.shields.io/gitter/room/taielab/Taie-RedTeam-OS)
 
-[TOC]
-
 
 
 ## 简介
@@ -29,6 +27,8 @@
 ## 下载地址
 
 点击下载：[![Download Taie-RedTeam-OS](https://sourceforge.net/sflogo.php?type=16&group_id=3121246)](https://sourceforge.net/p/taie-redteam-os/)
+国内下载地址:
+链接: https://pan.baidu.com/s/1G6DcvKf-DnppOeoa4aYt_w  密码: p17h
 
 ## Change Log
 
