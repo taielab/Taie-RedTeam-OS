@@ -31,6 +31,9 @@
 ## 下载地址
 
 点击下载：[![Download Taie-RedTeam-OS](https://sourceforge.net/sflogo.php?type=16&group_id=3121246)](https://sourceforge.net/p/taie-redteam-os/)
+国内下载：
+链接: https://pan.baidu.com/s/1G6DcvKf-DnppOeoa4aYt_w  密码: p17h
+
 
 ## Change Log
 
