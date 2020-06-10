@@ -64,6 +64,12 @@
 
 - 内测完成发布首个版本
 
+## BUGFIX
+
+实体机安装泰阿双显卡解决方案
+
+[双显卡黑屏解决方案Ubuntu和manjaro适用于安装系统到实体机上解决](https://blog.taielab.com/2019-04-14/manjaro-ubuntu-double-display-solutions-muanul-config.html)
+
 ## 法律
 
 **特殊声明:本系统关于版权说明,仅供学习交流,严禁用于商业用途和非法用途,使用者需遵守《[中华人民共和国网络安全法](http://www.npc.gov.cn/npc/xinwen/2016-11/07/content_2001605.htm)》,请于24小时内删除。**
