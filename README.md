@@ -24,6 +24,16 @@
 
 *[Rufus刻录到光盘或者U盘安装](https://rufus.ie/)*
 
+*虚拟机安装配置要求如下*
+
+ cpu 4核
+ 
+ 内存 8g
+ 
+ 磁盘 60g
+
+后面新版本会进行优化就无需太大配置要求
+
 ## 下载地址
 
 点击下载：[![Download Taie-RedTeam-OS](https://sourceforge.net/sflogo.php?type=16&group_id=3121246)](https://sourceforge.net/p/taie-redteam-os/)
