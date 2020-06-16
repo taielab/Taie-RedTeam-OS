@@ -42,9 +42,14 @@
 
 链接: https://pan.baidu.com/s/1M3Ty1waaDwTcGQZPYcB9nw  密码: 5dsc
 
-下载别的地方镜像记得校检别被人家给偷家了。手动滑稽（：
-系统镜像md5:
-3724303d3fc67c0cafc628c688316dcb  Taie-RedTeam-OS-V2020.1.iso
+
+ 下载别的地方镜像记得校检别被人家给偷家了。手动滑稽（：
+
+ 系统镜像md5:
+
+ Taie-RedTeam-OS-V2020.1.iso
+
+ 3724303d3fc67c0cafc628c688316dcb  
 
 ## Change Log
 
