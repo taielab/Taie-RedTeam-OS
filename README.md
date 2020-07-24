@@ -40,7 +40,7 @@
 
 国内泰阿2.0下载地址:
 
-链接: https://pan.baidu.com/s/1FAo4tSf2d0cQrp1P_X74eg  密码: mdgs
+链接: https://pan.baidu.com/s/1bo3fb9RXRxqOMeRLBY_D0Q  密码: l48l
 
 
  下载别的地方镜像记得校检别被人家给偷家了
