@@ -90,4 +90,8 @@
 
 [提出issue](https://github.com/taie-lab/Taie-RedTeam-OS/issues)
 
+## 官方公众号
 
+欢迎关注官方公众号，后续会更新制作3.0期间如何使用3.0的自动化达到两天不开Burpsuite刷src得到上万赏金和更多的自动化赏金技巧还有数字安全，隐私保护，渗透技巧更多的文章。
+
+![](Preview/weixin2.png)
