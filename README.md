@@ -18,7 +18,7 @@
 
 *[Rufus刻录到光盘或者U盘安装](https://rufus.ie/)*
 
-[泰阿红队单兵系统安装图文教程](https://mp.weixin.qq.com/s/XdL2kB2NQO9ZCtPQifdsWQ)
+[泰阿红队单兵系统安装图文教程](https://mp.weixin.qq.com/s/A0KZWVlsPOGDIgkBekuiEg)
 
 *虚拟机安装配置要求如下*
 
