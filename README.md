@@ -34,7 +34,7 @@
 
 国内泰阿2.0下载地址:
 
-链接: https://pan.baidu.com/s/1Dahq48YDrD9_lIQhc0Oq2A 提取码: 2020
+链接：https://cloud.189.cn/t/eaU3MfANbEZf (访问码:vvs3)
 
 
  下载别的地方镜像记得校检别被人家给偷家了
